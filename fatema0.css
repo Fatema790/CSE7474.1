@@ -1,7 +1,8 @@
 body {
-    background-color: lightgray;
+    background-color: white;
 }
 
 h1 {
-    color: blue;
+    color: green;
+    font-size: 40px;
 }
